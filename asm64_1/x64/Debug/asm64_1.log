@@ -1,0 +1,3 @@
+﻿  Assembling p64.asm...
+p64.obj : error LNK2019: unresolved external symbol MessageBoxB referenced in function Start
+T:\CompSci\colin fisher\ASM projects\x64\Debug\asm64_1.exe : fatal error LNK1120: 1 unresolved externals
