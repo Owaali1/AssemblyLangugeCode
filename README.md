@@ -1,2 +1,2 @@
-# AssemblyLangugeCode
+# AssemblyLanguageCode
 Code for Assembly Projects
